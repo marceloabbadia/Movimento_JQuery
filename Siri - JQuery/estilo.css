@@ -1,0 +1,38 @@
+* {
+  font-size: 30px;
+}
+
+* {
+  cursor: pointer;
+}
+
+body {
+  background-image: url("fundo_mar.jpeg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-color: rgb(19, 242, 249);
+}
+
+#conteudo {
+  position: absolute;
+  padding: 30px;
+  margin-top: 25%;
+  margin-left: 35%;
+}
+img {
+  display: flex;
+  height: 40%;
+  width: 40%;
+}
+
+.painel {
+  text-align: center;
+  padding-top: 3%;
+  color: rgb(0, 0, 0);
+}
+
+button {
+  border-radius: 15%;
+  background-color: black;
+  color: white;
+}
